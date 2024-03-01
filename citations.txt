@@ -1,0 +1,33 @@
+Reference Papers
+Epileptic Seizures Detection Using Deep Learning Techniques: A Review
+    Shoeibi, A.; Khodatars, M.; Ghassemi, N.; Jafari, M.; Moridian, P.; Alizadehsani, R.; Panahiazar, M.; Khozeimeh, F.; Zare, A.; Hosseini-Nejad, H.; et al. 
+    Epileptic Seizures Detection Using Deep Learning Techniques: A Review. Int. J. Environ. Res. Public Health 2021, 18, 5780. https://doi.org/10.3390/ijerph1811578
+
+An automated system for epilepsy detection using EEG brain signals based on deep learning approach:
+    Ihsan Ullah, Muhammad Hussain, Emad-ul-Haq Qazi, Hatim Aboalsamh,
+    An automated system for epilepsy detection using EEG brain signals based on deep learning approach:
+    Expert Systems with Applications,
+    Volume 107,
+    2018,
+    Pages 61-71,
+    ISSN 0957-4174,
+    https://doi.org/10.1016/j.eswa.2018.04.021.
+    (https://www.sciencedirect.com/science/article/pii/S0957417418302513)
+    Abstract: Epilepsy is a life-threatening and challenging neurological disorder, which is affecting a large number of people all over the world. For its detection, encephalography (EEG) is a commonly used clinical approach, but manual inspection of EEG brain signals is a time-consuming and laborious process, which puts a heavy burden on neurologists and affects their performance. Several automatic systems have been proposed using traditional approaches to assist neurologists, which perform well in detecting binary epilepsy scenarios e.g. normal vs. ictal, but their performance degrades in classifying ternary case e.g. ictal vs. normal vs. inter-ictal. To overcome this problem, we propose a system that is an ensemble of pyramidal one-dimensional convolutional neural network (P-1D-CNN) models. Though a CNN model learns the internal structure of data and outperforms hand-engineered techniques, the main issue is the large number of learnable parameters, whose learning requires a huge volume of data. To overcome this issue, P-1D-CNN works on the concept of refinement approach and it involves 61% fewer parameters compared to standard CNN models and as such it has better generalization. Further to overcome the limitations of the small amount of data, we propose two augmentation schemes. We tested the system on the University of Bonn dataset, a benchmark dataset; in almost all the cases concerning epilepsy detection, it gives an accuracy of 99.1 ± 0.9% and outperforms the state-of-the-art systems. In addition, while enjoying the strength of a CNN model, P-1D-CNN model requires 61% less memory space and its detection time is very short (< 0.000481 s), as such it is suitable for real-time clinical setting. It will ease the burden of neurologists and will assist the patients in alerting them before the seizure occurs. The proposed P-1D-CNN model is not only suitable for epilepsy detection, but it can be adopted in developing robust expert systems for other similar disorders.
+    Keywords: Electroencephalogram (EEG); Epilepsy; Seizure; Ictal; Interictal; 1D-CNN
+
+A review of epileptic seizure detection using machine learning classifiers
+    Siddiqui, M.K., Morales-Menendez, R., Huang, X. et al. A review of epileptic seizure detection using machine learning classifiers. 
+    Brain Inf. 7, 5 (2020). https://doi.org/10.1186/s40708-020-00105-1
+
+DataSet
+EEG datasets for seizure detection and prediction— A review
+    Wong S, Simmons A, Rivera-Villicana J, Barnett S, Sivathamboo S, Perucca P, Ge Z, Kwan P, Kuhlmann L, Vasa R, Mouzakis K, O'Brien TJ. 
+    EEG datasets for seizure detection and prediction- A review. Epilepsia Open. 2023 Jun;8(2):252-267. doi: 10.1002/epi4.12704. Epub 2023 Feb 16. 
+    PMID: 36740244; PMCID: PMC10235576.
+
+CHB-MIT Scalp EEG Database:
+    Guttag, J. (2010). CHB-MIT Scalp EEG Database (version 1.0.0). PhysioNet. https://doi.org/10.13026/C2K01R.
+    Original publication: http://hdl.handle.net/1721.1/54669
+    Standard citation for PhysioNet:Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). 
+    PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220.
