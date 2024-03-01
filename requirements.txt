@@ -5,6 +5,7 @@ opencv-python
 seaborn
 datasets
 mne
+dotenv
 
 # pip install -r requirements.txt
 
