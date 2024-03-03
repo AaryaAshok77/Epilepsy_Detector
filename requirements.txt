@@ -1,14 +1,15 @@
 torch
 matplotlib
+numpy
 scikit-learn
 opencv-python
 seaborn
 datasets
 mne
-dotenv
+python-dotenv
 
 # pip install -r requirements.txt
 
-# source .env/bin/activate
+# source activate Research
 
-# source .env/bin/deactivate
+# conda deactivate
