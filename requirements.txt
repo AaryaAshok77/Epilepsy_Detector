@@ -1,15 +1,18 @@
 torch
 matplotlib
-numpy
+numpy==1.21.0
 scikit-learn
 opencv-python
 seaborn
 datasets
 mne
 python-dotenv
+pandas
 
 # pip install -r requirements.txt
 
 # source activate Research
+
+# source /opt/anaconda3/envs/Research/bin/activate_research_env.sh
 
 # conda deactivate

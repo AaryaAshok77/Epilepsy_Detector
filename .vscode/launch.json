@@ -8,6 +8,3 @@
             "program": "${file}",
             "args": ["-Xfrozen_modules=off"],
             "console": "integratedTerminal"
-        }
-    ]
-}
